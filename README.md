@@ -48,8 +48,7 @@ Takes each service's method and wraps it. This way we can handle its lifecycle a
 ```
 
 ```js
-const { serviceMethods, data, isLoading, hasError, wasSuccessful } =
-  useService2(Service);
+const { serviceMethods, data, isLoading, hasError, wasSuccessful } = useService2(Service);
 ```
 
 - `serviceMethods` **get**, **delete**, **post**, **put**, **patch** methods.
