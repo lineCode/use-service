@@ -82,7 +82,7 @@ import Service from "./Service.js";
 
 function App() {
   const { getData, data, isLoading, hasError, wasSuccessful } =
-    useService2(Service);
+    useService(Service);
 
   React.useEffect(() => {
     getData();
