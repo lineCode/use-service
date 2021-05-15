@@ -21,6 +21,11 @@
       "reason": "Project Leader, and Developer"
     }
   ],
+  "keywords": [
+    "use-services-hook",
+    "react",
+    "hook"
+  ],
   "license": "MIT",
   "peerDependencies": {
     "react": "^17.0.1",
