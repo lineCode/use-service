@@ -1,6 +1,6 @@
 {
   "name": "use-services-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An easy and compact way to fetch data using hooks",
   "main": "./index.js",
   "scripts": {
