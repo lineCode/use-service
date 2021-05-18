@@ -11,6 +11,10 @@
   <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellowcolor=42b883.svg" />
 </p>
 
+<p align="center">
+ <a href="https://nodei.co/npm/use-services-hook/"><img src="https://nodei.co/npm/use-services-hook.png"></a>
+</p>
+
 <br/>
 <br/>
 
